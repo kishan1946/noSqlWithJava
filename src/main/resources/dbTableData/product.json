@@ -1,0 +1,24 @@
+{
+  "data" : {
+    "name" : "Aashirvaad Atta",
+    "type" : "Atta",
+    "barcode" : "111111",
+    "quantity" : "5KG",
+    "amount" : "10 Bag",
+    "costPrice" : "125",
+    "sellPrice" : "170",
+    "manufactureDate" : "10-10-2021",
+    "expiryDate" : "10-01-2022",
+    "company" : "ITC"
+  },
+  "userParameter" :{
+    "insertName" : "Aashirvaad Atta",
+    "updateParameter" :"name",
+    "updateData" : "Aashirvaad Multi Grained Atta",
+    "updateByParameter": "barcode",
+    "updateByParameterValue": "111111",
+    "deleteParameter" :"barcode",
+    "deleteValue" : "111111"
+  }
+
+}
