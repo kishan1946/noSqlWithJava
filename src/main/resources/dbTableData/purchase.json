@@ -1,0 +1,20 @@
+{
+  "data" : {
+    "name": "Aashirvaad Atta",
+    "barcode": "1111111",
+    "type": "Atta",
+    "quantity": "5KG",
+    "amount": "1",
+    "price": "170",
+    "company": "ITC"
+  },
+  "userParameter" :{
+    "insertName" : "Aashirvaad Atta",
+    "updateParameter" :"name",
+    "updateData" : "Aashirvaad Multi Grained Atta",
+    "updateByParameter": "barcode",
+    "updateByParameterValue": "1111111",
+    "deleteParameter" :"barcode",
+    "deleteValue" : "1111111"
+  }
+}

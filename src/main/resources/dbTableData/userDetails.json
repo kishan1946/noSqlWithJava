@@ -1,0 +1,18 @@
+{
+  "data" : {
+    "id": "1",
+    "name": "kishan",
+    "dob": "05-08-2000",
+    "phone": "1234567890",
+    "address": "xyz"
+  },
+  "userParameter" :{
+    "insertName" : "kishan",
+    "updateParameter" :"name",
+    "updateData" : "kishan kumar",
+    "updateByParameter": "id",
+    "updateByParameterValue": "1",
+    "deleteParameter" :"id",
+    "deleteValue" : "1"
+  }
+}

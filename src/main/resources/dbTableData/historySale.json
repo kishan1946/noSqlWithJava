@@ -1,0 +1,20 @@
+{
+  "data" : {
+    "name": "kishan",
+    "id": "1",
+    "barcode": "1111111,2222221,3333331",
+    "price": "3045",
+    "quantity": "3",
+    "dateOfPurchase": "17-10-2021",
+    "timeOfPurchase": "16:55:00"
+  },
+  "userParameter" :{
+    "insertName" : "kishan",
+    "updateParameter" :"name",
+    "updateData" : "kishan kumar",
+    "updateByParameter": "id",
+    "updateByParameterValue": "1",
+    "deleteParameter" :"id",
+    "deleteValue" : "1"
+  }
+}
